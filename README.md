@@ -2,7 +2,7 @@
 
 This is a simple template that will allow to call a POST endpoint to do some job. The file structure is meant to be deployed via Octopus. More information about triggered webjobs can be found [here](https://octopus.com/docs/deployment-examples/azure-deployments/deploying-a-package-to-an-azure-web-app/deploying-web-jobs).
 
-In this case, I called it "sync-users" as an example, but it could be anything.
+In this case, I called it "sync-users" as an example, but it have any other name.
 
 Here's a description of what file does:
 
